@@ -7,6 +7,7 @@
 // This line includes the week2 header file defined in this directory
 #include "week2.h"
 
+
 int main() {
     // This means that this code uses the std namespace. Now, all of the functions in the std namespace
     // do not require a qualifier. Generally using namespaces is considered bad practice especially in large
